@@ -296,8 +296,6 @@
 				<Item Name="Main.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/Settings Editor/Main.vi"/>
 				<Item Name="Test Settings Editor API.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/Settings Editor/Test Settings Editor API.vi"/>
 				<Item Name="CML Shared.lvlib" Type="Library" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/CML Shared/CML Shared.lvlib"/>
-				<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="imagedata.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -352,7 +350,8 @@
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/Write to XML File(array).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/Write to XML File.vi"/>
-				<Item Name="Application Directory.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Release Waiting Procs.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Release Waiting Procs.vi"/>
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
 				<Item Name="FindElementStartByName.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/FindElementStartByName.vi"/>
@@ -366,15 +365,8 @@
 				<Item Name="Read From XML File(array).vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/Read From XML File(array).vi"/>
 				<Item Name="Read From XML File.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/xml.llb/Read From XML File.vi"/>
 				<Item Name="Create Directory Recursive.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Create Directory Recursive.vi"/>
-				<Item Name="System Directory Type.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/System Directory Type.ctl"/>
-				<Item Name="Get System Directory.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/dlg_ctls.llb/Space Constant.vi"/>
-				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
-				<Item Name="Create Mask By Alpha.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Create Mask By Alpha.vi"/>
-				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/jpeg.llb/Directory of Top Level VI.vi"/>
-				<Item Name="Check Path.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/jpeg.llb/Check Path.vi"/>
-				<Item Name="Read PNG File.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp/1abvi3w/vi.lib/picture/png.llb/Read PNG File.vi"/>
 			</Item>
 			<Item Name="CML_Shared.lvlibp" Type="LVLibp" URL="../../../../../../Delacor/PPLs/CML_Shared.lvlibp">
 				<Item Name="Calibration Values--cluster.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Shared.lvlibp/Calibration Values--cluster.ctl"/>
@@ -396,7 +388,7 @@
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{199D96B7-0FE6-4FFC-81BF-C30EA6331937}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CML_Acquisition.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/CML_Acquisition.lvlibp</Property>
@@ -407,7 +399,8 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2D779D11-066B-4D89-B777-52EFBAF09762}</Property>
+				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
+				<Property Name="Source[0].itemID" Type="Str">{ECFE767F-953A-49BD-9322-12FC7675AE14}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Acquisition.lvlib</Property>
