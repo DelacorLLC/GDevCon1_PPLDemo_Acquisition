@@ -166,40 +166,29 @@
 				</Item>
 				<Item Name="Main.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/Main.vi"/>
 				<Item Name="Test Logger API.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/Test Logger API.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="RendezvousDataCluster.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/RendezvousDataCluster.ctl"/>
-				<Item Name="Rendezvous RefNum" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous RefNum"/>
-				<Item Name="Not A Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Not A Rendezvous.vi"/>
-				<Item Name="Rendezvous Name &amp; Ref DB Action.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB Action.ctl"/>
-				<Item Name="Rendezvous Name &amp; Ref DB.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB.vi"/>
 				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
+				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
+				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
+				<Item Name="Not A Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Not A Rendezvous.vi"/>
+				<Item Name="Rendezvous Name &amp; Ref DB.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB.vi"/>
+				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="RemoveNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/RemoveNamedRendezvousPrefix.vi"/>
 				<Item Name="Destroy A Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy A Rendezvous.vi"/>
 				<Item Name="Destroy Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy Rendezvous.vi"/>
-				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
-				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
-				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
-				<Item Name="usereventprio.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/BuildHelpPath.vi"/>
-				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Longest Line Length in Pixels.vi"/>
-				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog.vi"/>
-				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/DialogTypeEnum.ctl"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set Bold Text.vi"/>
-				<Item Name="eventvkey.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/event_ctls.llb/eventvkey.ctl"/>
-				<Item Name="TagReturnType.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/TagReturnType.ctl"/>
-				<Item Name="ErrWarn.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Find Tag.vi"/>
@@ -210,13 +199,11 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler Core CORE.vi"/>
-				<Item Name="DialogType.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Release Waiting Procs.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Release Waiting Procs.vi"/>
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
-				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 			<Item Name="CML_Settings Editor.lvlibp" Type="LVLibp" URL="../../../../../../Delacor/PPLs/CML_Settings Editor.lvlibp">
@@ -386,9 +373,10 @@
 				<Property Name="Bld_buildSpecName" Type="Str">Acquisition PPL</Property>
 				<Property Name="Bld_excludeDependentDLLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{199D96B7-0FE6-4FFC-81BF-C30EA6331937}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CML_Acquisition.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/CML_Acquisition.lvlibp</Property>
@@ -400,7 +388,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{ECFE767F-953A-49BD-9322-12FC7675AE14}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1E9D6F7C-9381-49D7-B68C-F7B9D531964A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Acquisition.lvlib</Property>
