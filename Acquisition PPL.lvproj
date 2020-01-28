@@ -168,15 +168,15 @@
 				<Item Name="Test Logger API.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/Test Logger API.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
-				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
-				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
 				<Item Name="Not A Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Not A Rendezvous.vi"/>
 				<Item Name="Rendezvous Name &amp; Ref DB.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB.vi"/>
-				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
+				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
 				<Item Name="RemoveNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/RemoveNamedRendezvousPrefix.vi"/>
 				<Item Name="Destroy A Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy A Rendezvous.vi"/>
 				<Item Name="Destroy Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy Rendezvous.vi"/>
+				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
+				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
+				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="../../../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
@@ -376,7 +376,7 @@
 				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{199D96B7-0FE6-4FFC-81BF-C30EA6331937}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CML_Acquisition.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/CML_Acquisition.lvlibp</Property>
